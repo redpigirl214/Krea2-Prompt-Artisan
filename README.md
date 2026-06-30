@@ -14,7 +14,7 @@
 
 ## 下载安装
 
-下载 Release 里的压缩包：
+下载页面右侧 Release 里的压缩包：
 
 ```text
 krea2-prompt-artisan-v1.0.0.zip
